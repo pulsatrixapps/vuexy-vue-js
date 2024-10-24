@@ -1,0 +1,1 @@
+const t="/vuexy-vue-js/assets/auth-v2-register-illustration-bordered-dark.c9ca0f5b.png",s="/vuexy-vue-js/assets/auth-v2-register-illustration-bordered-light.bbf4b217.png",e="/vuexy-vue-js/assets/auth-v2-register-illustration-dark.2626622e.png",r="/vuexy-vue-js/assets/auth-v2-register-illustration-light.cd143341.png";export{t as a,s as b,e as c,r as d};
